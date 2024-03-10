@@ -40,6 +40,8 @@ Display statistics will show gathered statistics and also generate a report
 
 
 # CREDITS 
-HyperionDev
-Cogrammar 
+HyperionDev,
+
+Cogrammar, 
+
 And me 
