@@ -1,10 +1,13 @@
 # FinalCapstone
+
 Task 2 of final cogrammar task 
 
 #DESCRIPTION 
+
 this will essentially be me uploading and documenting my last capstone project to a github page for practice. The code creates a database of users with additional functionality for admin and allows users to assign and keep track of tasks allocated to them.
 
 #INSTALLATION 
+
 you can just download the code and run it in your preferred executable. Make sure to keep them in the same folder. 
 follow the onscreen instructions to use the app 
 Use admin for username and password for password if you want to start the app in admin mode which allows you to look at some additional stats. 
