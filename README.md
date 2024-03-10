@@ -29,6 +29,12 @@ The View mine tasks (VM) shows all tasks associated to user and allows easy filt
 
 you can then choose the task and edit it, mark it as complete or just go back by typing the corresponding number 
 
+Generate report will make a two new files in the folder called task_overview and user_overview that will contain statistics 
+
+Display statistics will show gathered statistics and also generate a report
+
+![image](https://github.com/T-yz/FinalCapstone/assets/153387172/4f235411-91b9-4860-a324-a138ce20e351)
+
 
 # CREDITS 
 HyperionDev
